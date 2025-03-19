@@ -11,5 +11,5 @@ Daily market analysis and stock recommendations generated using LLM-powered fina
 - 🎯 Stock Recommendations
 
 ## Latest Reports
-- [Today's Report](reports/market_report_2024-03-18.md)
+- [Today's Report](reports/market_report_2025-03-18.md)
 - [Archive](reports/)
