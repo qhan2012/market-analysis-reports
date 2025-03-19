@@ -1,8 +1,13 @@
-# Daily Financial Market Reports
+# Daily Market Analysis Reports 📊
 
-Daily market analysis and stock recommendations generated using LLM-powered financial analysts.
+Automated daily market analysis reports generated using multi-agent LLM analysis.
+Reports are generated at 4:00 PM EST on trading days.
 
-## Reports Structure
+## Today's Report (2025-03-19)
+📈 [View Today's Market Analysis](./reports/market_report_2025-03-19.md)
+
+## About 📋
+This repository contains daily market analysis reports that include:
 - 📊 Daily Market Report
 - 📰 Economic News
 - 📈 Index Analysis
@@ -10,6 +15,6 @@ Daily market analysis and stock recommendations generated using LLM-powered fina
 - 🚀 Momentum Analysis
 - 🎯 Stock Recommendations
 
-## Latest Reports
-- [Today's Report](reports/market_report_2025-03-18.md)
-- [Archive](reports/)
+Reports are automatically generated using LLM-powered analysis of market data.
+
+[View All Reports](./reports)
