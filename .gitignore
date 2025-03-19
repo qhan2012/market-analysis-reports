@@ -1,0 +1,32 @@
+# API Keys and Environment Variables
+.env
+*.env
+.venv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.py
+*.txt
+*.bk
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE
+.vscode/
+.idea/
+
+
+
+# Allow markdown files
+!*.md
+!reports/*.md
