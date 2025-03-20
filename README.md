@@ -18,3 +18,4 @@ This repository contains daily market analysis reports that include:
 Reports are automatically generated using LLM-powered analysis of market data.
 
 [View All Reports](./reports)
+
