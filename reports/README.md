@@ -5,6 +5,7 @@ Reports are generated at 4:00 PM EST on trading days.
 
 ## All Reports
 
+- [2025-04-04](./market_report_2025-04-04.md)
 - [2025-04-03](./market_report_2025-04-03.md)
 - [2025-04-02](./market_report_2025-04-02.md)
 - [2025-04-01](./market_report_2025-04-01.md)
