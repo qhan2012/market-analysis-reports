@@ -3,8 +3,8 @@
 Automated daily market analysis reports generated using multi-agent LLM analysis.
 Reports are generated at 4:00 PM EST on trading days.
 
-## Today's Report (2025-04-04)
-📈 [View Today's Market Analysis](./reports/market_report_2025-04-04.md)
+## Today's Report (2025-04-07)
+📈 [View Today's Market Analysis](./reports/market_report_2025-04-07.md)
 
 ## About 📋
 This repository contains daily market analysis reports that include:
